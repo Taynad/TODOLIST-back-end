@@ -68,7 +68,7 @@ Authorization: Bearer seu_token_aqui
 ## 🔗 Integração com o Front-end
 
 O front-end deste projeto consome a API deste back-end.
-👉 [TODO LIST - Front-end](https://github.com/SeuUsuario/todo-list-frontend)
+👉 [TODO LIST - Front-end](https://github.com/Taynad/TODOLIST-front-end)
 
 > Todas as requisições são feitas via **Fetch API**, enviando o token JWT no cabeçalho de autorização.
 
